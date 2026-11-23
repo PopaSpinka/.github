@@ -1,0 +1,3 @@
+# The Sponsor button on every public repository of PopaSpinka that has no FUNDING.yml of its own
+# (GitHub takes this default from the .github repository).
+custom: ["https://boosty.to/popaspinka"]
